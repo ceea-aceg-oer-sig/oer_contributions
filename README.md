@@ -12,3 +12,5 @@ Materials in any engineering-related topic are welcome.  Remember to correctly l
 ALSO ADD TO OER COMMONS FOR SEARCHABILITY/METADATA
 We strongly suggest that anything uploaded to this repository is also entered in OER Commons (https://www.oercommons.org/groups/canadian-engineering-education-association-ceea-ac/4016/).  OER Commons is an OER repository that only accepts limited file types, but any linked material can be listed there for searching purposes.  
 
+
+
